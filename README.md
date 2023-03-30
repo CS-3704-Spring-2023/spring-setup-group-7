@@ -2,8 +2,8 @@
 # STARTER-jpa03
 
 Storybook is here:
-* Production: <https://awhicks.github.io/STARTER-jpa03-docs/>
-* QA:  <https://awhicks.github.io/STARTER-jpa03-docs-qa/>
+* Production: <https://CS-3704-S23.github.io/jpa03-krempy21-docs/>
+* QA:  <https://CS-3704-S23.github.io/jpa03-krempy21-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
