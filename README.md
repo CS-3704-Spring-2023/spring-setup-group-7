@@ -2,8 +2,8 @@
 # STARTER-jpa03
 
 Storybook is here:
-* Production: <https://CS-3704-S23.github.io/jpa03-krempy21-docs/>
-* QA:  <https://CS-3704-S23.github.io/jpa03-krempy21-docs-qa/>
+* Production: https://cs-3704-spring-2023.github.io/spring-setup-group-7-docs/
+* QA:  https://cs-3704-spring-2023.github.io/spring-setup-group-7-docs-qa/
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
